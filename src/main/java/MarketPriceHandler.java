@@ -194,6 +194,7 @@ class MarketPriceHandler {
 
 
     // This is a comment
+    // This is a comment 1
 
     public static Object getLatestPrice(String name) throws ParseException {
 
