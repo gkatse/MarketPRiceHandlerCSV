@@ -193,6 +193,8 @@ class MarketPriceHandler {
     }
 
 
+    // This is a comment
+
     public static Object getLatestPrice(String name) throws ParseException {
 
     SimpleDateFormat df = new SimpleDateFormat("dd-MM-yyyy HH:mm:ss:SSS");
