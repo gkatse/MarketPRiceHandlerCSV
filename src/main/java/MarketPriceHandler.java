@@ -198,6 +198,10 @@ class MarketPriceHandler {
     // This is a comment 2
     // This is a comment 3
 
+    // Change made from feature branch
+    // 1
+    // 2
+
 
     public static Object getLatestPrice(String name) throws ParseException {
 
