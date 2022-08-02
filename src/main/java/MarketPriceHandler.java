@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
-
+// test git 1
 class MarketPriceHandler {
 
     public static void main(String[] args) throws ParseException {
